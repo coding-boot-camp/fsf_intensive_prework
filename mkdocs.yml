@@ -1,0 +1,11 @@
+site_name: Salesforce Pre-Work
+pages:
+    - Module 1 - Get Started: modules/chapter1.md
+    - Module 2 - What is Web Development?: modules/chapter2.md
+    - Module 3 - So You Want to Be a Web Developer: modules/chapter3.md
+    - Module 4 - HTML and CSS: modules/chapter4.md
+    - Module 5 - JavaScript: modules/chapter5.md
+    - Module 6 - Additional Resources: modules/chapter7.md
+
+copyright: Trilogy Education Services, Inc. © 2019. All Rights Reserved.
+theme: readthedocs
