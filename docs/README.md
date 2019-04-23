@@ -34,30 +34,24 @@ Prepare to be prepared! We'll discuss a few prework logistics, including how to 
 
 ---
 
-#### [Module \#2 - What is Web Development? \(Required\)](modules/chapter2)
-
-Understand how the internet works, and what the web application ecosystem looks like.
-
----
-
-#### [Module \#3 -  So You Want to Be a Web Developer... \(Required\)](modules/chapter3)
+#### [Module \#2 -  So You Want to Be a Web Developer... \(Required\)](modules/chapter2)
 
 Get your computer ready to work! Install the requisite tooling, and start learning how to work in a modern, collaborative work environment.
 
 ---
 
-#### [Module \#4 - HTML and CSS \(Required\)](modules/chapter4)
+#### [Module \#3 - HTML and CSS \(Required\)](modules/chapter3)
 
 We're going to hit the ground running so we'll learn the fundamentals of HTML and CSS development before class begins.
 
 ---
 
-#### [Module \#5 - JavaScript \(Required\)](modules/chapter5)
+#### [Module \#4 - JavaScript \(Required\)](modules/chapter4)
 
 JavaScript controls the behavior of our web applications, so we'll learn the basics here! 
 
 ---
 
-#### [Module \#6 - What's Next? - Supplemental Resources for the Curious of Mind \(Recommended\)](modules/chapter7)
+#### [Module \#5 - What's Next? - Supplemental Resources for the Curious of Mind \(Recommended\)](modules/chapter5)
 
 If you have the time, bandwidth, and curiosity, dive into some of these extra resources before the class begins!
