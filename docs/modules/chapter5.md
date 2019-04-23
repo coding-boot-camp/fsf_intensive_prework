@@ -1,4 +1,4 @@
-# Chapter \#7: Additional Resources
+# Chapter \#5: Additional Resources
 
 Now that you've handled HTML, slain CSS, and jiggled into JavaScript, what's next? Well, first of all, congratulate yourself! If you've made it this far, then you've already learned some critical web development fundamentals, and you've set yourself up for success.
 
