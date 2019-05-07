@@ -56,11 +56,15 @@ Visual Studio (VS) Code is a free text editor that runs on Mac, Linux, and Windo
 
 At a fundamental level, programming is all about creating text in files with various extensions. When we create a block of HTML like the one below, what we've really done is created a block of text. There are some funny symbols in there, but at its most basic level, it's just text.
 
-![VSCode_11](assets/VSCode_11.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_11.png" width="600" title="VSCode_11">
+</p>
 
 For a simple text editor, this is where the comprehension stops: our block of HTML remains a block of text. But for more powerful text editors like VS Code, these blocks of text are immediately recognized as code (as long as we include the right file extension\). VS Code can provide a more visually intuitive understanding of the code through indicative coloring, smart tabs, and autocomplete functionality. As a result, creating HTML like the block above is a more natural process and can be debugged more quickly.
 
-![VSCode_1](assets/VSCode_1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_1.png" width="600" title="VSCode_1">
+</p>
 
 #### Open in Browser (VS Code Extension)
 
