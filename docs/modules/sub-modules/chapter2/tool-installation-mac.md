@@ -24,6 +24,8 @@ The rest of this assignment will walk you through the specific steps associated 
 1. If you don’t already have Chrome installed, visit the download page [here](https://www.google.com/chrome/browser/desktop/index.html).
 2. Download, open, and run the installation file.
 
+#### Zoom
+
 #### Slack
 
 You’ll be messaging your instructor, your TAs and your fellow classmates with this business-centric chatting app. The teaching and career staff will post some of their most important announcements here so set this program up as soon as you can. You will receive the link to your class-specific channel during orientation.
@@ -63,32 +65,6 @@ You’ll be messaging your instructor, your TAs and your fellow classmates with 
          <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Install-Slack3.2.png" width="250" title="Slack3.2">
     </p>
 
-#### VS Code
-
-1. Go to the [setup page](https://code.visualstudio.com/docs/setup/setup-overview) on the VS Code website and select Mac as your platform.
-2. Open your Downloads folder and click on the file to unzip. 
-3. Drag the file to your Applications folder. 
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_9.png" width="250" title="Slack3.2">
-</p>
-
-You should now be able to access VS Code from your Applications folder.
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_10.png" width="250" title="Slack3.2">
-</p>
-
-#### Open in Browser (VS Code Extension)
-
-1. Open VS Code.
-2. Open the extensions pane and search for **open in browser**. 
-3. Select the version written by TechER and click **Install**. 
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_6.png" width="250" title="Slack3.2">
-</p>
-
 #### Terminal
 
 You’ll be entering your command line code through this interface. Since you’re on a Mac right now, you already have it! Just follow these steps to open the program.
@@ -111,33 +87,43 @@ You’ll be entering your command line code through this interface. Since you’
          <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Install-Terminal-3.png" width="600" title="Terminal-3">
     </p>
 
-#### Xcode
+#### Java SDK
 
-1. Open the App Store and search for Xcode. 
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Mod5-28.png" width="600" title="XCode-1">
-</p>
-
-2. Download and install Xcode. When the download is complete, open the program. 
-
-3. Agree to the terms of service. 
-
-4. When you see the window below, the installation is complete.
+To install the Java SDK, watch this video, or follow the directions below.
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Mod5-29.png" width="600" title="XCode-2">
+  <a href="https://youtu.be/9Bw8vpjYRiA" target="_blank"><img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/jdk-thumb.png" width='400px'></a>
 </p>
 
-#### Node.js
+1. Head over to the [JDK download page](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-1. Go to the [Node.js website](https://nodejs.org/en). 
+2. Accept the license agreement under the *Java SE Development Kit* box.
 
-2. Select the macOS installer and download. Follow the prompts to complete the installation.
+3. Click on the Mac OS X x64 download option.
 
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/node-mac.png" width="600" title="node-mac">
-</p>
+4. In your browser, open the installation files package once the download is complete.
+
+5. When the installation package window pops up, double click the package icon to launch the install wizard.
+
+5. In the Introduction section of the install wizard, click "continue."
+
+6. The Destination Select section should automatically choose an installation location and redirect you to the next section. 
+
+7. Click "Install" in the Installation Type section.
+
+8. Enter your password in the pop up prompt, and click "Install Software.".
+
+9. Once the Installation section completes, you should see a message that says "The software was successfully installed." 
+
+10. You will be automatically directed to the Summary Section, which means you've successfully installed Java.
+
+11. Click the close button, and select "Move to Trash" for the installation files. 
+
+12. Open Terminal and run the command "java -version" to check that the install completed successfully!
+
+#### Eclipse
+
+#### Selenium IDE
 
 #### SSH Key
 

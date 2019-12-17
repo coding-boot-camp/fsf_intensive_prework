@@ -23,7 +23,3 @@ Just like any other language, really learning requires that you practice, practi
 #### [Lesson \#4 - Further Reading](sub-modules/chapter4/lesson4.md)
 
 With your new found skills, you're ready to do some self-learning. The resources in this lesson will help deepen your understanding of JavaScript and provide a solid resource moving forward.
-
-#### [Lesson \#5 - Further Reading](sub-modules/chapter4/lesson5.md)
-
-With your new found skills, you're ready to do some self-learning. The resources in this lesson will help deepen your understanding of JavaScript and provide a solid resource moving forward.

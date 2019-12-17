@@ -1,45 +1,30 @@
-# Chapter \#5: Additional Resources
+# Chapter \#5: JavaScript Testing
 
-Now that you've handled HTML, slain CSS, and jiggled into JavaScript, what's next? Well, first of all, congratulate yourself! If you've made it this far, then you've already learned some critical web development fundamentals, and you've set yourself up for success.
-
-However, don't get too comfortable. Your journey is only just beginning. As you will soon discover, part of what makes being a web developer so exciting and rewarding is the endless opportunity to learn.
+Now that we have learned about HTML, CSS, and JavaScript lets take a look at the next important topic for this course!
 
 ---
 
-## What to Do Next
+## What Is JavaScript Testing?
 
-The most important thing for you to do now is to simply continue coding. You have come a long way by completing this prework, but the longer you go without coding, the harder it will be to get back into the habit. Don't let your knowledge wilt on the vine.
+To begin our discussion of testing with JavaScript, lets first define what testing means in general. Testing is checking to make sure that actual results match the expected results. We can test our applications by clicking around and checking to make sure that it is behaving as we expect it to, however this is what is referred to as `manual testing`. When we talk about JavaScript testing, we are concerned with automating this testing process through the use of scripts written in JavaScript.
 
-Becoming a successful developer is going to require a good deal of discipline and independent motivation. Begin looking for opportunities to expand your horizons. See a cool website? Inspect the source code! Have a problem in your everyday life? Try to figure out a way to solve it using logic and code. The most successful developers never cease learning or finding ways to improve.
+## Why Do We Need To Test?
 
-Here are some resources that you can use to reinforce and to expand on the knowledge you've gained so far.
+- Automated tests make development faster because you no longer need to manually check to make sure everything is behaving properly after changes to your code.
+- You are less likely to make errors than with manual because it is easier to overlook bugs while manually testing.
+- Testing your code makes you think more about potential errors that could occur.
+- Testing your code forces you to write better, cleaner code because messy code is harder to test.
 
-1. [Code School](https://www.codeschool.com)
+## What Are Some Types Of Tests?
 
-   Code School is one of the single best websites for beginners. When you complete all of the prework modules, we strongly encourage you to review as many of Code School's lessons on HTML, CSS, JavaScript, and jQuery as you can. Doing so will greatly help you during the first few weeks of class.
-
-2. [Codecademy](https://www.codecademy.com)
-
-   Codecademy is another excellent site that offers free courses on languages such as HTML, CSS, and JavaScript. Each course is broken up into a number of step-by-step lessons that guide you through the fundamentals and simple projects.
-
-3. [Free Code Camp](https://www.freecodecamp.com)
-
-   Complete lessons to gain certifications and gradually build a portfolio. When you finish all of your certifications, you can get real-world experience by building projects for nonprofits.
+- Unit Tests: These are meant to meant to test one isolated piece of code.
+- Integration Tests: These are meant to test how features interact with eachother.
+- End-to-End(e2e) Tests: These are meant to test an entire process in your app.
 
 ## More Resources
 
-### Read
+Read:
 
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn): One of the most important skills you will learn in this program is how to independently learn. This course grounds you in this methodology.
+[Introduction to JavaScript Testing](https://www.academind.com/learn/javascript/javascript-testing-introduction/)
 
-### Watch
-
-* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Great \(free\) resources for taking your web development skills to the next level. Both novices and advanced developers will find plenty to learn from here.
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Another great resource, particularly for advanced topics in JavaScript, jQuery, and Angular.js.
-
-### Learn from Others
-
-- [Livecoding.tv](https://www.livecoding.tv/): Watch \(and chat with\) developers live as they code projects. This is a great resource for gaining insight into the thought process of other developers. It's also fun to watch them struggle with bugs.
-- [TwitchTV](https://www.twitch.tv/directory/game/Creative/programming): This is a similar concept as Livecoding.tv. Watch developers code and solve problems. 
-
-
+[Overview of JavaScript Testing](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)

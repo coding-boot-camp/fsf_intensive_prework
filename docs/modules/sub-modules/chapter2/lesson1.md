@@ -11,14 +11,14 @@ Coming into your first day of class, you will be expected to have several tools 
 After completing this module, you will have each of the following tools installed:
 
 * Google Chrome
+* Zoom
 * Slack
-* Visual Studio Code
-* "Open in Browser" Visual Studio Code extension
+* Java SDK
+* Eclipse
+* Sellenium IDE
 * Git / GitHub
 * Git Bash \(Windows Only\)
 * Terminal \(Mac Only, Pre-Installed\)
-* Xcode (Mac only)
-* Nodejs
 * SSH keys
 
 In addition, you will also have accounts on each of the following websites:
@@ -38,6 +38,10 @@ Before we start installing everything willy-nilly, let's take a moment to examin
 
 This is the web browser we'll be using to quickly determine whether our code is working. Google Chrome has a number of tools that make it an ideal platform for coding, so if you are currently using a different browser, we encourage you to switch to Chrome. 
 
+#### Zoom
+
+This application will be used for video conferencing throughout the course. It allows for group video calls and screen sharing to make collaboration and effective communication easier!
+
 #### Slack
 
 We'll be using this application literally every single day for the next few months. Slack is an online communication tool that is a mix of a forum, instant messenger, and email - all rolled in one. It's a tool that is used by countless organizations worldwide.
@@ -48,11 +52,15 @@ In our Boot Camp, we'll be using Slack extensively to send code snippets during 
   <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Group2.png" width="600" title="Group2">
 </p>
 
-#### Visual Studio Code
+#### Java SDK
 
-Oh, the power of VS Code! A little program that does so much!  
+This is the Java Software Development Kit. This will allow us to run Java code on our computers. This is important for the next program we will be using, Eclipse!
 
-Visual Studio (VS) Code is a free text editor that runs on Mac, Linux, and Windows operating systems. For developers, text editors are like the cozy pillow on which they rest their heads. 
+#### Eclipse
+
+Oh, the power of Eclipse! A little program that does so much!  
+
+Eclipse is a free text editor that runs on Mac, Linux, and Windows operating systems. For developers, text editors are like the cozy pillow on which they rest their heads. 
 
 At a fundamental level, programming is all about creating text in files with various extensions. When we create a block of HTML like the one below, what we've really done is created a block of text. There are some funny symbols in there, but at its most basic level, it's just text.
 
@@ -60,17 +68,15 @@ At a fundamental level, programming is all about creating text in files with var
   <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_11.png" width="600" title="VSCode_11">
 </p>
 
-For a simple text editor, this is where the comprehension stops: our block of HTML remains a block of text. But for more powerful text editors like VS Code, these blocks of text are immediately recognized as code (as long as we include the right file extension\). VS Code can provide a more visually intuitive understanding of the code through indicative coloring, smart tabs, and autocomplete functionality. As a result, creating HTML like the block above is a more natural process and can be debugged more quickly.
+For a simple text editor, this is where the comprehension stops: our block of HTML remains a block of text. But for more powerful text editors like Eclipse, these blocks of text are immediately recognized as code (as long as we include the right file extension\). Eclipse can provide a more visually intuitive understanding of the code through indicative coloring, smart tabs, and autocomplete functionality. As a result, creating HTML like the block above is a more natural process and can be debugged more quickly.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_1.png" width="600" title="VSCode_1">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Eclipse_1.png" width="600" title="Eclipse_1">
 </p>
 
-#### Open in Browser (VS Code Extension)
+#### Selenium IDE
 
-As you will find in this course, VS Code is powerful in its ability to be extended through the use of plug-ins.  This means that we can easily incorporate free add-ons that enable VS Code to make the process of coding even easier than before.
-
-For now, the only extension we recommend installing with VS Code is the Open in Browser extension. This will allow you to open HTML files you are editing in VS Code in your web browser without having to go through File Explorer (Windows) or Finder (Mac).
+This is a framework for testing web applications. Selenium provides a tool for creating automated tests without needing to write your own automation scripts.
 
 #### Git / Github
 
@@ -95,14 +101,6 @@ Kind of... except there are no pictures or visuals. It's just a box with text.
 _**Uh, why would I want that?**_
 
 You'll come to understand over time, but in many situations, utilizing a command line interface can be faster and more powerful than relying on the operating system's GUI. You'll get a little more exposure to the command line in the required assignment below and in the next chapter!
-
-#### Xcode (Mac Only)
-
-Xcode is a development suite exclusive to Mac. We will primarily be using Visual Studio Code in this course, but installing Xcode will set up some of the other required boot-camp programs including Git, which coders depend on for logging the development of programs and applications.
-
-#### Node.js
-
-Node.js is a JavaScript environment that we'll be using to build our Angular applications. Don't worry if that doesn't make much sense yet. You'll become very proficient in its use and utility by the end of the course.
 
 #### SSH Keys
 

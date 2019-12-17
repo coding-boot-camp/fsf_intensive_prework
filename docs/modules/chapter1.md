@@ -1,6 +1,6 @@
 # Chapter \#1: Get Started
 
-Congratulations! You have already made big strides toward your desired career in web development. Your first step was signing up for the boot camp. The second step will be completing this prework.
+Congratulations! You have already made big strides toward developing your career in web development. Your first step was signing up for the boot camp. The second step will be completing this prework.
 
 The boot camp will present many challenges. This prework is designed to provide the information and guidance you need to succeed in the first few weeks of the course.
 

@@ -1,10 +1,11 @@
-site_name: Salesforce Pre-Work
+site_name: Ultranauts Pre-Work
 pages:
     - Module 1 - Get Started: modules/chapter1.md
     - Module 2 - So You Want to Be a Web Developer...: modules/chapter2.md
     - Module 3 - HTML and CSS: modules/chapter3.md
     - Module 4 - JavaScript: modules/chapter4.md
-    - Module 5 - Additional Resources: modules/chapter5.md
+    - Module 5 - JavaScript Testing: modules/chapter5.md
+    - Module 6 - Additional Resources: modules/chapter6.md
 
 copyright: Trilogy Education Services, Inc. © 2019. All Rights Reserved.
 theme: readthedocs

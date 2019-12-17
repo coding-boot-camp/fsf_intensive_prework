@@ -24,6 +24,15 @@ The rest of this assignment will walk you through the specific steps associated 
 1. If you don’t already have Chrome installed, visit the download page [here](https://www.google.com/chrome/browser/desktop/index.html).
 2. Download, open, and run the installation file.
 
+#### Zoom
+
+1. Visit the Zoom download link [here](https://zoom.us/support/download), and the download should begin automatically.
+2. Open and run the installation file
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/ZoomInstal_1.png" width="400" title="ZoomInstall_1">
+</p>
+
 #### Slack
 
 You’ll be messaging your instructor, your TAs and your fellow classmates with this business-centric chatting app. The teaching and career staff will post some of their most important announcements here so set this program up as soon as you can. You will receive the link to your class-specific channel during orientation.
@@ -64,37 +73,89 @@ You’ll be messaging your instructor, your TAs and your fellow classmates with 
 
 4. When you see the chat room, you’re finished.
 
-#### VS Code
+#### Java SDK
 
-1. Go to the [setup page](https://code.visualstudio.com/docs/setup/setup-overview) on the VS Code website and select Windows as your platform.
-2. Click **Visual Studio Code installer** in Step 1 under the Installation heading. 
+To install the Java SDK, watch this video, or follow the directions below.
+
+<p align="center">
+  <a href="https://youtu.be/o25N3nb_yiM" target="_blank"><img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/jdk-thumb.png" width='400px'></a>
+</p>
+
+1. Head over to the [JDK download page](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+2. Accept the license agreement under the *Java SE Development Kit* box.
+
+3. Click on the Windows x64 download option.
+
+4. Run the install file
+
+5. On the first setup page, click next
+
+6. Select the install path and click next
+
+7. Hit OK on the "Change in License Terms" page
+
+8. When the "Change in License Terms" page pops up, click "OK".
+
+9. Once again choose the installation directory. 
+
+10. Click next
+
+11. When the "Complete" page comes up, it means you've successfully installed Java!
+
+#### Eclipse
+
+1. Go to the [download page](https://www.eclipse.org/downloads/) on the Eclipse website and click the `Download 64 bit` button.
+2. Click **Download** at the top of the next page. 
 3. Open and run the installer file.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_2.png" width="250" title="VSCode_2">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/EclipseInstall_1.png" width="400" title="EclipseInstall_1">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_4.png" width="250" title="VSCode_4">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/EclipseInstall_2.png" width="400" title="EclipseInstall_2">
 </p>
-
-4. Follow the installer prompts. When you reach the following screen, select the following settings and click **Next**. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_5.png" width="250" title="VSCode_5">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/EclipseInstall_3.png" width="400" title="EclipseInstall_3">
 </p>
 
-**Note:** When the installation is complete, you should be able to access VS Code from your Start menu.
-
-#### Open in Browser (VS Code Extension)
-
-1. Open VS Code.
-2. Open the extensions pane and search for **open in browser**. 
-3. Select the version written by TechER and click **Install**. 
+4. Select `Eclipse IDE for JavaScript and Web Developers` from the list in the eclipse installer. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/VSCode_6.png" width="250" title="VSCode_6">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/EclipseInstall_4.png" width="400" title="EclipseInstall_4">
 </p>
+
+5. Click install on the following page. Accept all license agreements that come up and the installation should complete shortly.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/EclipseInstall_5.png" width="400" title="EclipseInstall_5">
+</p>
+
+**Note:** When the installation is complete, you should be able to access Eclipse from your Start menu.
+
+#### Selenium IDE
+
+1. Head over to the website for Selenium IDE [here](https://selenium.dev/selenium-ide/), and click on the `Chrome Download` button at top of the screen.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/SeleniumInstall_1.png" width="400" title="SeleniumInstall_1">
+</p>
+
+2. Once you are in the Chrome web store, click the `add extension` button at the top of the page.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/SeleniumInstall_2.png" width="400" title="SeleniumInstall_2">
+</p>
+
+3. Once you have completed the installation, you should see a button at the top of your chrome window that you can click to access Selenium IDE.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/SeleniumInstall_3.png" width="400" title="SeleniumInstall_3">
+</p>
+
+**Note:** If you are unable to see the extension at the top, try resizing the menu bar to give it more space. To do this click and drag the right side of the address bar in chrome to make it smaller. If this does not work, go to `chrome://extensions` in the chrome browser and make sure the Selenium IDE is enabled.
 
 #### Git & Git Bash
 
@@ -132,16 +193,6 @@ The installation also includes Git Bash or Bash for short. You'll be using this 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Install-GitWindows2.4.png" width="400" title="GitWindows2.4">
-</p>
-
-#### Node.js
-
-1. Go to the [Node.js website](https://nodejs.org/en). 
-
-2. Select the Windows installer and download. Follow the prompts to complete the installation.
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/node-windows.png" width="600" title="node-windows">
 </p>
 
 #### SSH Key
