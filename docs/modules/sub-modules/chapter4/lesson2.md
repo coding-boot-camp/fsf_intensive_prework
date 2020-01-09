@@ -14,7 +14,7 @@ Go to codeacademy's [Introduction to JavaScript](https://www.codecademy.com/lear
 
 Sign up, and complete the first 3 modules. Don't worry about completing the tasks that require a **Pro** membership. Just completing the interactive lessons in each module will give you a base that we'll use to build you into a rockstar developer!
 
-If you wish to go beyond the required modules, go on with your bad self, but don't feel like it's necessary.
+If you wish to go beyond the required modules, feel free to, but don't feel like it's necessary.
 
 **Required Modules**
 

@@ -1,12 +1,12 @@
-# Chapter \#5: JavaScript Testing
+# Chapter \#5: Automated Testing
 
 Now that we have learned about HTML, CSS, and JavaScript lets take a look at the next important topic for this course!
 
 ---
 
-## What Is JavaScript Testing?
+## What Is Automated Testing?
 
-To begin our discussion of testing with JavaScript, lets first define what testing means in general. Testing is checking to make sure that actual results match the expected results. We can test our applications by clicking around and checking to make sure that it is behaving as we expect it to, however this is what is referred to as `manual testing`. When we talk about JavaScript testing, we are concerned with automating this testing process through the use of scripts written in JavaScript.
+To begin our discussion of testing with JavaScript, lets first define what testing means in general. Testing is checking to make sure that actual results match the expected results. We can test our applications by clicking around and checking to make sure that it is behaving as we expect it to, however this is what is referred to as `manual testing`. When we talk about automated testing, we are concerned with automating this testing process through the use of scripts written in JavaScript or using programs that do not require scripts to be written.
 
 ## Why Do We Need To Test?
 

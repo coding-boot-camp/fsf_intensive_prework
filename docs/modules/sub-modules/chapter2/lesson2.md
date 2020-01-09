@@ -1,4 +1,4 @@
-# Lesson \#4 - Agile Methodology
+# Lesson \#2 - Agile Methodology
 
 Unbeknownst to most outside of tech, software development is an extremely collaborative profession. You likely won't work in isolation and you will more often than not work across departments.
 

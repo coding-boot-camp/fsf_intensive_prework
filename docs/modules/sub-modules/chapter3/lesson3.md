@@ -2,7 +2,7 @@
 
 Now that we know how we can fill out the content of our webpages, let's take a look at how we can style our webpages and create something more pleasing to the eye.
 
-Start by creating a new HTML file and opening it in VS Code.
+Start by creating a new HTML file and opening it in Eclipse.
 
 Paste the following code and save your file.
 

@@ -2,7 +2,7 @@
 
 HTML documents are made up of tags. Most come in pairs, opening, and closing, but some are self-closing. 
 
-Let's start by opening up an HTML file in VS Code and use emmet by typing `!` and pressing enter. Don't be alarmed by all of the text this created! In fact, only the elements inside the `<body>` tag will actually appear on the page. 
+Let's start by creating a new HTML file and opening it up in Eclipse.
 
 Let's dive right into some basic HTML tags starting with heading tags.
 
@@ -14,7 +14,7 @@ Let's dive right into some basic HTML tags starting with heading tags.
 <h3>Caption</h3>
 ```
 
-To test this out, right-click on your HTML file in the VS code workspace browser (located on the left). Select `copy path`, open a browser of your choosing and paste the path in the address bar!
+To test this out, open the html file that you created in the browser!
 
 By default, content written within `h1` tags will be the largest and content written within `h6` tags will be the smallest. But don't focus too much on the font sizes as we'll be able to change that later on with CSS. Instead, think of the heading tags in terms of importance! `h1` would be the most important and `h6` would be the least important.
 

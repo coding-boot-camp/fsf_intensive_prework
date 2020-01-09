@@ -1,4 +1,4 @@
-# Lesson \#5 - Feature Branching
+# Lesson \#3 - Feature Branching
 
 Part of working as a team is sharing code. Git and GitHub were created exactly for this purpose! Since software developers work in this collaborative manner, they need to leverage git effectively to share their code in as unobtrusive manner as possible.
 
