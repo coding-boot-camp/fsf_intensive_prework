@@ -123,6 +123,16 @@ To install the Java SDK, watch this video, or follow the directions below.
 
 #### Eclipse
 
+#### Node.js
+
+1. Go to the [Node.js website](https://nodejs.org/en). 
+
+2. Select the macOS installer and download. Follow the prompts to complete the installation.
+
+<p align="center">
+     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/node-mac.png" width="600" title="node-mac">
+</p>
+
 #### Selenium IDE
 
 #### SSH Key

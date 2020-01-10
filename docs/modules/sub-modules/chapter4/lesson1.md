@@ -1,6 +1,6 @@
 # Lesson \#1 - Introduction to Programming
 
-This is it! This is why we're here - to become developers! No coding experience is required for this course, but if you happen to have some, feel free to skip this chapter and go straight into JavaScript. This section is going to introduce you to the fundamental building blocks of programming:
+No coding experience is required for this course, but if you happen to have some, feel free to skip this chapter and go straight into JavaScript. This section is going to introduce you to the fundamental building blocks of programming:
 
 - Variables
 - Operators

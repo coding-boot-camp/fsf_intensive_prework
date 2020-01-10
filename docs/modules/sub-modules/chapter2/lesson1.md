@@ -15,7 +15,8 @@ After completing this module, you will have each of the following tools installe
 * Slack
 * Java SDK
 * Eclipse
-* Sellenium IDE
+* Nodejs
+* Selenium IDE
 * Git / GitHub
 * Git Bash \(Windows Only\)
 * Terminal \(Mac Only, Pre-Installed\)
@@ -74,9 +75,17 @@ For a simple text editor, this is where the comprehension stops: our block of HT
   <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/Eclipse_1.png" width="600" title="Eclipse_1">
 </p>
 
+#### Node.js
+
+Node.js is a JavaScript environment that is used to run JavaScript outside of the browser. We will need this as part of the Selenium Webdriver installation.
+
+#### Selenium Webdriver
+
+This is a framework for testing web applications. This tool allows you to write scripts to automate the process of testing Front-end Applications.
+
 #### Selenium IDE
 
-This is a framework for testing web applications. Selenium provides a tool for creating automated tests without needing to write your own automation scripts.
+This is Selenium's tool for creating automated tests without needing to write your own automation scripts.
 
 #### Git / Github
 

@@ -135,6 +135,16 @@ To install the Java SDK, watch this video, or follow the directions below.
 
 **Note:** When the installation is complete, you should be able to access Eclipse from your Start menu.
 
+#### Node.js
+
+1. Go to the [Node.js website](https://nodejs.org/en). 
+
+2. Select the Windows installer and download. Follow the prompts to complete the installation.
+
+<p align="center">
+     <img src="https://raw.githubusercontent.com/coding-boot-camp/enterprise-prework-assets/master/assets/node-windows.png" width="600" title="node-windows">
+</p>
+
 #### Selenium IDE
 
 - Head over to the website for Selenium IDE [here](https://selenium.dev/selenium-ide/), and click on the `Chrome Download` button at top of the screen.
